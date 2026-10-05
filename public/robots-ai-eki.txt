@@ -1,0 +1,80 @@
+# ---------------------------------------------------------------
+# Rivasol robots.txt EKİ - AI tarayıcılarına açık izin
+# Bu bloğu mevcut robots.txt dosyasının SONUNA ekleyin (mevcut
+# "User-agent: *" kurallarını silmeyin). Sitemap satırı zaten var.
+# ---------------------------------------------------------------
+
+# OpenAI (ChatGPT arama ve eğitim)
+User-agent: GPTBot
+Allow: /
+Disallow: /admin/
+Disallow: /system/
+Disallow: /storage/
+Disallow: /index.php?route=checkout/
+Disallow: /index.php?route=account/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /admin/
+Disallow: /system/
+Disallow: /storage/
+Disallow: /index.php?route=checkout/
+Disallow: /index.php?route=account/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /admin/
+Disallow: /system/
+Disallow: /storage/
+Disallow: /index.php?route=checkout/
+Disallow: /index.php?route=account/
+
+# Anthropic (Claude)
+User-agent: ClaudeBot
+Allow: /
+Disallow: /admin/
+Disallow: /system/
+Disallow: /storage/
+Disallow: /index.php?route=checkout/
+Disallow: /index.php?route=account/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /admin/
+Disallow: /system/
+Disallow: /storage/
+Disallow: /index.php?route=checkout/
+Disallow: /index.php?route=account/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /admin/
+Disallow: /system/
+Disallow: /storage/
+Disallow: /index.php?route=checkout/
+Disallow: /index.php?route=account/
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+Disallow: /admin/
+Disallow: /system/
+Disallow: /storage/
+Disallow: /index.php?route=checkout/
+Disallow: /index.php?route=account/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /admin/
+Disallow: /system/
+Disallow: /storage/
+Disallow: /index.php?route=checkout/
+Disallow: /index.php?route=account/
+
+# Google Gemini / AI Overviews eğitim kontrolü (arama sıralamasını etkilemez)
+User-agent: Google-Extended
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
