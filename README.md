@@ -35,6 +35,7 @@ Bu yapı; içerik pazarlaması, sosyal medya zamanlaması, veri analizi, raporla
 ## Rivasol ® Blog
 
 <!-- BLOG-POST-LIST:START -->
+- 📌 [TMO çeltik alım fiyatları 2026 açıklandı: Baldo 45.000 TL](https://www.rivasol.com.tr/blog/tmo-celtik-alim-fiyatlari-2026-donemi) - *14 October 2026*
 - 📌 [3 Kg Solucan Gübresi: Mikro Besinlerle Toprağı Güçlendirin](https://www.rivasol.com.tr/blog/3-kg-solucan-gubresi-mikro-besinlerle-topragi-guclendirin) - *12 October 2026*
 - 📌 [2 Kg Solucan Gübresi Kaç Saksıya Yeter? Balkon Bahçesi Rehberi](https://www.rivasol.com.tr/blog/2-kg-solucan-gubresi-kac-saksiya-yeter-balkon-bahcesi-rehberi) - *09 October 2026*
 - 📌 [1 Kg Solucan Gübresi Nasıl Kullanılır? Saksı ve Bahçe Rehberi](https://www.rivasol.com.tr/blog/1-kg-solucan-gubresi-nasil-kullanilir-saksi-ve-bahce-rehberi) - *06 October 2026*
@@ -175,7 +176,7 @@ Bu yapı; içerik pazarlaması, sosyal medya zamanlaması, veri analizi, raporla
 - 📌 [Saksıda Limon Neden Sararır? Kışın Demir Eksikliği ve Kloroz Çözümü](https://www.rivasol.com.tr/blog/saksida-limon-mandalina-yaprak-sararmasi-demir-eksikligi-cozumu) - *01 February 2026*
 - 📌 [Ocak Ayı Bahçe Takvimi: Meyve Ağaçları ve Güller İçin Kış Budaması ve Besleme Rehberi](https://www.rivasol.com.tr/blog/ocak-ayi-bahce-takvimi-meyve-gul-budama-besleme) - *28 January 2026*
 - 📌 [Eski Saksı Toprağını Atmayın! Ocak Ayı Canlandırma ve Tohum Harcı Rehberi](https://www.rivasol.com.tr/blog/eski-saksi-topragi-nasil-canlandirilir-tohum-ekim-harci-hazirlama) - *27 January 2026*
-- 📌 [TMO 2026 Çeltik Alım Fiyatları Açıklandı: Baldo, Osmancık, Cammeo](https://www.rivasol.com.tr/blog/tmo-celtik-alim-fiyatlari-2026-aciklandi) - *24 January 2026*
+- 📌 [TMO 2025 Çeltik Alım Fiyatları Açıklandı: Baldo, Osmancık, Cammeo](https://www.rivasol.com.tr/blog/tmo-celtik-alim-fiyatlari-2026-aciklandi) - *24 January 2026*
 - 📌 [2026 Gübre Fiyatları Analizi ve Tasarruf Yöntemleri](https://www.rivasol.com.tr/blog/2026-gubre-fiyatlari-analizi-ve-tasarruf-yontemleri) - *21 January 2026*
 - 📌 [IPARD 2026: Organik Gübre ve Kırsal Kalkınma Hibe Rehberi](https://www.rivasol.com.tr/blog/ipard-2026-organik-gubre-ve-kirsal-kalkinma-hibe-rehberi) - *14 January 2026*
 - 📌 [Kış Salon Bitkileri Bakımı | Orkide, Gül ve Sukulent Sırları](https://www.rivasol.com.tr/blog/kis-salon-bitkileri-bakimi-orkide-gul-sukulent) - *07 January 2026*
