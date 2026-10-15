@@ -35,6 +35,7 @@ Bu yapı; içerik pazarlaması, sosyal medya zamanlaması, veri analizi, raporla
 ## Rivasol ® Blog
 
 <!-- BLOG-POST-LIST:START -->
+- 📌 [Lale, Sümbül, Nergis Ne Zaman Dikilir? Ekim Rehberi](https://www.rivasol.com.tr/blog/lale-sumbul-nergis-soganlari-ne-zaman-dikilir) - *15 October 2026*
 - 📌 [TMO çeltik alım fiyatları 2026 açıklandı: Baldo 45.000 TL](https://www.rivasol.com.tr/blog/tmo-celtik-alim-fiyatlari-2026-donemi) - *14 October 2026*
 - 📌 [3 Kg Solucan Gübresi: Mikro Besinlerle Toprağı Güçlendirin](https://www.rivasol.com.tr/blog/3-kg-solucan-gubresi-mikro-besinlerle-topragi-guclendirin) - *12 October 2026*
 - 📌 [2 Kg Solucan Gübresi Kaç Saksıya Yeter? Balkon Bahçesi Rehberi](https://www.rivasol.com.tr/blog/2-kg-solucan-gubresi-kac-saksiya-yeter-balkon-bahcesi-rehberi) - *09 October 2026*
