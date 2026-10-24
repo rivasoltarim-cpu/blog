@@ -35,6 +35,7 @@ Bu yapı; içerik pazarlaması, sosyal medya zamanlaması, veri analizi, raporla
 ## Rivasol ® Blog
 
 <!-- BLOG-POST-LIST:START -->
+- 📌 [Meyve Ağaçları Ne Zaman Budanır? Sonbaharda Budama Yapılır mı?](https://www.rivasol.com.tr/blog/agaclar-ne-zaman-budanir-sonbahar-budama-riski-istisnalar) - *24 October 2026*
 - 📌 [Toprak pH'ı Nasıl Ölçülür? Sonbahar Kireçleme Rehberi](https://www.rivasol.com.tr/blog/toprak-ph-i-nasil-olculur-sonbahar-kirecleme-rehberi) - *21 October 2026*
 - 📌 [Lale, Sümbül, Nergis Ne Zaman Dikilir? Ekim Rehberi](https://www.rivasol.com.tr/blog/lale-sumbul-nergis-soganlari-ne-zaman-dikilir) - *15 October 2026*
 - 📌 [TMO çeltik alım fiyatları 2026 açıklandı: Baldo 45.000 TL](https://www.rivasol.com.tr/blog/tmo-celtik-alim-fiyatlari-2026-donemi) - *14 October 2026*

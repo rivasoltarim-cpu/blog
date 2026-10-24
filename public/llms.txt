@@ -38,6 +38,7 @@ Web sitesi: https://www.rivasol.com.tr
 
 ## Blog (son yazılar)
 
+- [Meyve Ağaçları Ne Zaman Budanır? Sonbaharda Budama Yapılır mı?](https://www.rivasol.com.tr/blog/agaclar-ne-zaman-budanir-sonbahar-budama-riski-istisnalar): 2026-10-24
 - [Toprak pH'ı Nasıl Ölçülür? Sonbahar Kireçleme Rehberi](https://www.rivasol.com.tr/blog/toprak-ph-i-nasil-olculur-sonbahar-kirecleme-rehberi): 2026-10-21
 - [Lale, Sümbül, Nergis Ne Zaman Dikilir? Ekim Rehberi](https://www.rivasol.com.tr/blog/lale-sumbul-nergis-soganlari-ne-zaman-dikilir): 2026-10-15
 - [TMO çeltik alım fiyatları 2026 açıklandı: Baldo 45.000 TL](https://www.rivasol.com.tr/blog/tmo-celtik-alim-fiyatlari-2026-donemi): 2026-10-14
@@ -67,7 +68,6 @@ Web sitesi: https://www.rivasol.com.tr
 - [TÜBİTAK 1501 Başvurusu Nasıl Yapılır? Ar-Ge Desteği Şartları](https://www.rivasol.com.tr/blog/tubitak-1501-sanayi-ar-ge-projeleri-destekleme-programi-basvuru-rehberi): 2026-08-05
 - [Çimlerde Sararma ve Kel Alanlar: Haziran Yama Onarımı](https://www.rivasol.com.tr/blog/cimlerde-sararma-ve-haziran-ayi-yama-onarim-rehberi): 2026-08-02
 - [Barış Çiçeği Yaprak Uçlarında Kararma Nasıl Geçer? Kesin Çözüm](https://www.rivasol.com.tr/blog/baris-cicegi-yaprak-uclarinda-kararma-ve-cicek-acmama-cozumu): 2026-07-30
-- [Cevizde İç Boşluğu ve Kararma Nasıl Önlenir? Haziran Bakımı](https://www.rivasol.com.tr/blog/cevizde-ic-boslugu-ve-kararma-haziran-gubresi): 2026-07-27
 
 ## Optional
 
