@@ -35,6 +35,7 @@ Bu yapı; içerik pazarlaması, sosyal medya zamanlaması, veri analizi, raporla
 ## Rivasol ® Blog
 
 <!-- BLOG-POST-LIST:START -->
+- 📌 [Kışlık Lahana ve Brokoli Ne Zaman Dikilir? Baş Bağlama Takvimi](https://www.rivasol.com.tr/blog/brokoli-lahana-eylulde-dikilmezse-bas-baglamaz-son-tarih) - *27 October 2026*
 - 📌 [Meyve Ağaçları Ne Zaman Budanır? Sonbaharda Budama Yapılır mı?](https://www.rivasol.com.tr/blog/agaclar-ne-zaman-budanir-sonbahar-budama-riski-istisnalar) - *24 October 2026*
 - 📌 [Toprak pH'ı Nasıl Ölçülür? Sonbahar Kireçleme Rehberi](https://www.rivasol.com.tr/blog/toprak-ph-i-nasil-olculur-sonbahar-kirecleme-rehberi) - *21 October 2026*
 - 📌 [Lale, Sümbül, Nergis Ne Zaman Dikilir? Ekim Rehberi](https://www.rivasol.com.tr/blog/lale-sumbul-nergis-soganlari-ne-zaman-dikilir) - *15 October 2026*
