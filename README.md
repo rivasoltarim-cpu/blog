@@ -35,6 +35,7 @@ Bu yapı; içerik pazarlaması, sosyal medya zamanlaması, veri analizi, raporla
 ## Rivasol ® Blog
 
 <!-- BLOG-POST-LIST:START -->
+- 📌 [Ceviz Ne Zaman Toplanır? Kabuğu Siyahlatma 24 Saatte Başlar](https://www.rivasol.com.tr/blog/ceviz-ne-zaman-toplanir-kabuk-kararmasi-ve-hasat-rehberi) - *13 November 2026*
 - 📌 [Safran Nasıl Yetiştirilir? Korm Dikimi, Hasat ve Kurutma Rehberi](https://www.rivasol.com.tr/blog/safran-nasil-yetistirilir-korm-dikimi-hasat-ve-kurutma) - *09 November 2026*
 - 📌 [Sonbaharda Yeşillik Ne Zaman Ekilir? Ispanak Marul Roka Rehberi](https://www.rivasol.com.tr/blog/ispanak-marul-ve-roka-ne-zaman-ekilir-eylul-ekim-takvimi) - *30 October 2026*
 - 📌 [Kışlık Lahana ve Brokoli Ne Zaman Dikilir? Baş Bağlama Takvimi](https://www.rivasol.com.tr/blog/brokoli-lahana-eylulde-dikilmezse-bas-baglamaz-son-tarih) - *27 October 2026*
