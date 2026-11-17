@@ -38,6 +38,7 @@ Web sitesi: https://www.rivasol.com.tr
 
 ## Blog (son yazılar)
 
+- [Elma ve Ayva Depoda Neden Kararır? Hasat Olgunluğu Rehberi](https://www.rivasol.com.tr/blog/elma-ve-ayva-depoda-neden-kararir-hasat-olgunlugu-rehberi): 2026-11-17
 - [Ceviz Ne Zaman Toplanır? Kabuğu Siyahlatma 24 Saatte Başlar](https://www.rivasol.com.tr/blog/ceviz-ne-zaman-toplanir-kabuk-kararmasi-ve-hasat-rehberi): 2026-11-13
 - [Safran Nasıl Yetiştirilir? Korm Dikimi, Hasat ve Kurutma Rehberi](https://www.rivasol.com.tr/blog/safran-nasil-yetistirilir-korm-dikimi-hasat-ve-kurutma): 2026-11-09
 - [Sonbaharda Yeşillik Ne Zaman Ekilir? Ispanak Marul Roka Rehberi](https://www.rivasol.com.tr/blog/ispanak-marul-ve-roka-ne-zaman-ekilir-eylul-ekim-takvimi): 2026-10-30
@@ -67,7 +68,6 @@ Web sitesi: https://www.rivasol.com.tr
 - [Yaz Sıcaklarında Kökü Yanan Çiçek Nasıl Kurtarılır?](https://www.rivasol.com.tr/blog/yaz-ortasinda-bahce-ciceklerinde-kok-yanmasi-nasil-tedavi-edilir): 2026-08-17
 - [Evde Kompost Neden Kokar? Adım Adım Koku Önleme Rehberi](https://www.rivasol.com.tr/blog/kompost-yapiminda-sik-yapilan-hatalar-ve-koku-onleme-yollari): 2026-08-14
 - [Yaz Seracılığında Aşırı Nem ve Kök Boğazı Çürüklüğü: Biyolojik Çözüm Rehberi](https://www.rivasol.com.tr/blog/yaz-seraciliginda-asiri-nem-ve-kok-bogazi-curuklugu-biyolojik-cozum): 2026-08-11
-- [Domateste Çiçek Burnu Çürüklüğü Kalsiyum Çözümü ve Haziran Bakımı](https://www.rivasol.com.tr/blog/domateste-cicek-burnu-curuklugu-kalsiyum-noksanligi-cozumu): 2026-08-08
 
 ## Optional
 
